@@ -1,2 +1,3 @@
 # git-practice
-Practcicing for alt academy web development course
+Practicing for alt academy web development course
+New entry log
